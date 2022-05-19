@@ -1,0 +1,96 @@
+*{
+    font-family: 'Kalam', cursive;
+    font-style: bold;
+
+    
+}
+
+h5{
+    color: red;
+    font-size: 30px;
+}
+
+p{
+    color: red;
+    font-size: 20px;
+}
+
+li{
+    text-decoration:none ;
+    cursor: pointer;
+}
+
+.carousel-item img{
+width: 100vw;
+height: 90vh;
+
+}
+
+
+.modal-header{
+    background-color:rgba(255,164,32,.6);
+
+}
+
+.modal-footer{
+    background-color:rgba(255,164,32,.6);
+
+}
+
+.acercade{
+    background-color: rgba(255,164,32,.6);
+    image-rendering: auto;
+    min-height: 100vh;
+    background-size: cover;
+    cursor: default;
+}
+
+.acercade h1{
+    color: white;
+}
+
+.acercade p {
+    color: white;
+}
+
+.contacto{
+    position: fixed;
+    bottom: 150px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 100;
+    
+}
+
+.contacto-instagram{
+    position: fixed;
+    bottom: 80px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 100;
+    
+}
+
+ p{
+    margin-top: revert;
+}
+
+.card-img-bottom{
+    min-height: 190px;
+    max-height: 190px !important;
+    box-sizing: border-box;
+}
+
+.modal-body img{
+    max-height: 450px;
+}
+
+.bg-n{
+    background-color:rgba(255,164,32,.6);
+}
+
+.carta {
+    padding-top: 40px;
+    padding-bottom: 80px;
+    text-align: center;
+}
